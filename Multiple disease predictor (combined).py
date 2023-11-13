@@ -26,12 +26,20 @@ def predict_diseases(symptoms, features, rf):
     predictions = rf.predict(input_data)
     return predictions
 
+# Set the paths for your models
+diabetes_model_path = 'C:/Users/sudha/Downloads/Disease prediction/Diabetes Prediction/Diabetes prediction bot trained_model.sav'
+heart_disease_model_path = 'C:/Users/sudha/Downloads/Disease prediction/Heart Disease prediction/Heart disease prediction bot trained_model.sav'
+
+# Loading the saved models
+diabetes_model = pickle.load(open(diabetes_model_path, 'rb'))
+heart_disease_model = pickle.load(open(heart_disease_model_path, 'rb'))
+
 # Sidebar for navigation
 with st.sidebar:
-    selected = st.selectbox(
-        "PolyDisease Predictor",
-        ["🩸 Diabetes Prediction", "❤️ Heart Disease Prediction", "🦠 Multiple Disease Prediction"],
-    )
+    st.title("PolyDisease Predictor")
+    selected = st.radio("Select Predictor", ["🩸 Diabetes Prediction", "❤️ Heart Disease Prediction", "🦠 Multiple Disease Prediction"])
+
+# ... (rest of your code remains unchanged)
 
 # Multiple Disease Prediction Page
 if selected == "🦠 Multiple Disease Prediction":
