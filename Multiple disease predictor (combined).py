@@ -27,8 +27,8 @@ def predict_diseases(symptoms, features, rf):
     return predictions
 
 # Set the paths for your models
-diabetes_model_path = 'C:/Users/sudha/Downloads/Disease prediction/Diabetes Prediction/Diabetes prediction bot trained_model.sav'
-heart_disease_model_path = 'C:/Users/sudha/Downloads/Disease prediction/Heart Disease prediction/Heart disease prediction bot trained_model.sav'
+diabetes_model_path = 'models/diabetes_model.sav'
+heart_disease_model_path = 'models/heart_disease_model.sav'
 
 # Loading the saved models
 diabetes_model = pickle.load(open(diabetes_model_path, 'rb'))
@@ -46,8 +46,8 @@ if selected == "🦠 Multiple Disease Prediction":
     st.title("Multiple Disease Prediction using Symptoms")
 
     # Load data
-    train_data = pd.read_csv('C:\\Users\\sudha\\Downloads\\Disease prediction\\Multiple disease prediction\\Training.csv')
-    test_data = pd.read_csv('C:\\Users\\sudha\\Downloads\\Disease prediction\\Multiple disease prediction\\Testing.csv')
+    train_data = pd.read_csv('data/Training.csv')
+    test_data = pd.read_csv('data/Testing.csv')
 
     # Split data into features and target variable
     features = train_data.drop('prognosis', axis=1)
@@ -76,7 +76,7 @@ if selected == "🩸 Diabetes Prediction":
     st.title("Diabetes Prediction using ML")
 
     # Load data
-    diabetes_model_path = 'C:/Users/sudha/Downloads/Disease prediction/Diabetes Prediction/Diabetes prediction bot trained_model.sav'
+    diabetes_model_path = 'models/diabetes_model.sav'
     diabetes_model = pickle.load(open(diabetes_model_path, 'rb'))
 
     # Input fields
@@ -105,7 +105,7 @@ if selected == "❤️ Heart Disease Prediction":
     st.title("Heart Disease Prediction using ML")
 
     # Load data
-    heart_disease_model_path = 'C:/Users/sudha/Downloads/Disease prediction/Heart Disease prediction/Heart disease prediction bot trained_model.sav'
+    heart_disease_model_path = 'models/heart_disease_model.sav'
     heart_disease_model = pickle.load(open(heart_disease_model_path, 'rb'))
 
     # Input fields
