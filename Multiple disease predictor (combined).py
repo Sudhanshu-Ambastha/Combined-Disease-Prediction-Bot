@@ -39,7 +39,6 @@ with st.sidebar:
     st.title("PolyDisease Predictor")
     selected = st.radio("Select Predictor", ["🩸 Diabetes Prediction", "❤️ Heart Disease Prediction", "🦠 Multiple Disease Prediction"])
 
-# ... (rest of your code remains unchanged)
 
 # Multiple Disease Prediction Page
 if selected == "🦠 Multiple Disease Prediction":
