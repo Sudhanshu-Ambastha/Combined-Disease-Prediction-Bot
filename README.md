@@ -1,4 +1,4 @@
-# Project Name: Combined Disease Prediction Bot
+# Combined Disease Prediction Bot
 
 ## Overview
 
