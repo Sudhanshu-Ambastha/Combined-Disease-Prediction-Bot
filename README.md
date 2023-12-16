@@ -27,7 +27,7 @@ This project is a combined version of multiple disease prediction bots, includin
 ![Web-capture_13-11-2023_142555_localhost](https://github.com/Sudhanshu-Ambastha/Google-background/assets/135802131/05ab2f85-32e8-4685-898d-851f8cfd29ea)
 - [Multiple Disease Prediction Bot](https://github.com/Sudhanshu-Ambastha/Multiple-Disease-Prediction-Bot)
 
-
+![Web capture_16-12-2023_162351_localhost](https://github.com/Sudhanshu-Ambastha/Google-background/assets/135802131/10dc50a7-ac7d-4972-bf52-736f448a6ca4)
 - [Heart Disease Prediction Bot](https://github.com/Sudhanshu-Ambastha/Heart-Disease-Prediction-Bot)
 
 ![Heart-combined (1)](https://github.com/Sudhanshu-Ambastha/Google-background/assets/135802131/131df499-4fdc-4b70-b865-3c8dca23f308)
