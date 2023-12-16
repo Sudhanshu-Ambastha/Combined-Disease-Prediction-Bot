@@ -25,7 +25,11 @@ This project is a combined version of multiple disease prediction bots, includin
 ## Repository Links
 
 - [Multiple Disease Prediction Bot](https://github.com/Sudhanshu-Ambastha/Multiple-Disease-Prediction-Bot)
+
+
 - [Heart Disease Prediction Bot](https://github.com/Sudhanshu-Ambastha/Heart-Disease-Prediction-Bot)
+
+
 - [Diabetes Prediction Bot](https://github.com/Sudhanshu-Ambastha/Diabetes-Prediction-Bot)
 
 Feel free to explore the individual repositories for detailed information on each bot. 
