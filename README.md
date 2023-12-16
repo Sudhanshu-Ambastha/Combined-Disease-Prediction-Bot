@@ -24,7 +24,7 @@ This project is a combined version of multiple disease prediction bots, includin
 
 ## Repository Links
 
-![Web-capture_13-11-2023_142555_localhost](https://github.com/Sudhanshu-Ambastha/Google-background/assets/135802131/05ab2f85-32e8-4685-898d-851f8cfd29ea)
+![Web capture_16-12-2023_16267_localhost](https://github.com/Sudhanshu-Ambastha/Google-background/assets/135802131/a7e19e30-aa09-4838-85c2-f1b69d2949cd)
 - [Multiple Disease Prediction Bot](https://github.com/Sudhanshu-Ambastha/Multiple-Disease-Prediction-Bot)
 
 ![Web capture_16-12-2023_162351_localhost](https://github.com/Sudhanshu-Ambastha/Google-background/assets/135802131/10dc50a7-ac7d-4972-bf52-736f448a6ca4)
