@@ -24,10 +24,13 @@ This project consolidates multiple disease prediction bots, including the Multip
 
 ## Repository Links
 
+![Web capture_16-12-2023_16267_localhost](https://github.com/Sudhanshu-Ambastha/Google-background/assets/135802131/a7e19e30-aa09-4838-85c2-f1b69d2949cd)
 - [Multiple Disease Prediction Bot](https://github.com/Sudhanshu-Ambastha/Multiple-Disease-Prediction-Bot)
-  
+
+![Web capture_16-12-2023_162351_localhost](https://github.com/Sudhanshu-Ambastha/Google-background/assets/135802131/10dc50a7-ac7d-4972-bf52-736f448a6ca4)  
 - [Heart Disease Prediction Bot](https://github.com/Sudhanshu-Ambastha/Heart-Disease-Prediction-Bot)
-  
+
+![Web capture_16-12-2023_162935_localhost](https://github.com/Sudhanshu-Ambastha/Google-background/assets/135802131/b33c540d-9cb2-410c-b83c-37b99be726de)  
 - [Diabetes Prediction Bot](https://github.com/Sudhanshu-Ambastha/Diabetes-Prediction-Bot)
 
 Explore the individual repositories for detailed information on each bot. 
