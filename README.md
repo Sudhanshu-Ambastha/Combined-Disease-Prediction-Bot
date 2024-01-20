@@ -40,9 +40,9 @@ Watch the project in action on [YouTube](https://youtu.be/G7AvMkZ0VGM?si=CA6lqU6
 Happy predicting! 🤖💙
 
 ## Troubleshooting
-If you are facing issue of downloading files will takes storage and run it seamless like opening it via github desktop and vs code check this repository
-- [Poly Disease Predictor](https://github.com/Sudhanshu-Ambastha/Poly-Disease-Predictor)
-If you have any questions or suggestions, please don't hesitate to reach out.
+- If you are facing issue of downloading files will takes storage and run it seamless like opening it via github desktop and vs code check this repository
+[Poly Disease Predictor](https://github.com/Sudhanshu-Ambastha/Poly-Disease-Predictor)
+- If you have any questions or suggestions, please don't hesitate to reach out.
 
 ## Author
 Sudhanshu Ambastha
