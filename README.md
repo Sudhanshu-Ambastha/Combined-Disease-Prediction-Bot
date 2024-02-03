@@ -44,6 +44,6 @@ Happy predicting! 🤖💙
 [Poly Disease Predictor](https://github.com/Sudhanshu-Ambastha/Poly-Disease-Predictor)
 - If you have any questions or suggestions, please don't hesitate to reach out.
 
-## Author
+## Contributors
 @Sudhanshu-Ambastha, @Vishwas567917, @Sarthak966829
 
