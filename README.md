@@ -45,4 +45,5 @@ Happy predicting! 🤖💙
 - If you have any questions or suggestions, please don't hesitate to reach out.
 
 ## Author
-Sudhanshu Ambastha
+@Sudhanshu-Ambastha, @Vishwas567917, @Sarthak966829
+
