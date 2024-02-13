@@ -45,4 +45,6 @@ Happy predicting! 🤖💙
 - If you have any questions or suggestions, please don't hesitate to reach out.
 
 ## Contributors
-[Sudhanshu Ambastha](https://github.com/Sudhanshu-Ambastha), [Sarthak](https://github.com/Sarthak966829), [Vishwas Shrivastava](https://github.com/Vishwas567917)
+<a href = "https://github.com/Sudhanshu-Ambastha/Combined-Disease-Prediction-Bot/contributors">
+  <img src = "https://contrib.rocks/image?repo=Sudhanshu-Ambastha/Combined-Disease-Prediction-Bot"/>
+</a>
