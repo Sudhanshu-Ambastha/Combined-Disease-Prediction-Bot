@@ -35,7 +35,8 @@ This project consolidates multiple disease prediction bots, including the Multip
 
 Explore the individual repositories for detailed information on each bot. 
 
-Watch the project in action on [YouTube](https://youtu.be/G7AvMkZ0VGM?si=CA6lqU6VS_5lYA4w).
+Watch the project in action on 
+[![Poly Disease Predictor](https://img.youtube.com/vi/G7AvMkZ0VGM/0.jpg)](https://www.youtube.com/watch?v=G7AvMkZ0VGM&t=1s "Poly Disease Predictor")
 
 Happy predicting! 🤖💙
 
